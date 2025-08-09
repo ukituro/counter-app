@@ -6,6 +6,10 @@ It allows users to increment a counter and save the count history.
 ![Counter App Screenshot](<img width="934" height="664" alt="image" src="https://github.com/user-attachments/assets/1c76407c-3f11-46d5-8869-642525628c0c" />
 ) 
 
+<a href="https://singular-seahorse-dcdd6b.netlify.app/" target="_blank" rel="noopener noreferrer" class="btn">
+    Visit Project
+</a>
+
 ---
 
 ## 🚀 Features
